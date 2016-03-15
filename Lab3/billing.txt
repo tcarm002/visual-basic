@@ -1,0 +1,13 @@
+9/20/2012, Jones and Smith, 3:34:36 PM, 3:34:37 PM, 0:0
+9/20/2012, Jones and Smith, 3:35:58 PM, 3:36:00 PM, 0:0
+9/20/2012, Empresa Kenny, 3:36:18 PM, 3:36:19 PM, 0:0
+9/20/2012, Phillip and Friends, 3:36:23 PM, 3:38:40 PM, 0:2
+9/20/2012, Jones and Smith, 10:40:39 PM, 10:40:41 PM, 0:0
+9/21/2012, Jones and Smith, 11:00:03 AM, 11:05:58 AM, 0:5
+9/21/2012, Empresa Kenny, 11:06:07 AM, 11:10:21 AM, 0:4
+9/21/2012, Phillip and Friends, 11:10:26 AM, 11:14:27 AM, 0:4
+9/21/2012, Student Athelete Academic Center, 11:14:34 AM, 11:21:12 AM, 0:6
+9/21/2012, Prometric Testing Center, 11:21:16 AM, 11:44:13 AM, 0:22
+3/14/2016, Phillip and Friends, 10:31:51 PM, 10:31:53 PM, 0:0
+3/14/2016, Phillip and Friends, 10:32:01 PM, 10:32:18 PM, 0:0
+3/14/2016, Phillip and Friends, 10:32:21 PM, 10:35:25 PM, 0:3

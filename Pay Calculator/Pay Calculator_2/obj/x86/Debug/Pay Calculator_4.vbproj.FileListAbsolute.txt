@@ -1,0 +1,32 @@
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\bin\Debug\Pay Calculator_2.exe
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\bin\Debug\Pay Calculator_2.pdb
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\bin\Debug\Pay Calculator_2.xml
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.frmMain.resources
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.Resources.resources
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.exe
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.xml
+C:\Users\tcarm002\VBProjects_TEMP\Pay Calculator_2\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.pdb
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.exe
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.xml
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.pdb
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.exe
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.pdb
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.xml
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.frmMain.resources
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.Resources.resources
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\VB\Pay Calculator\Pay Calculator_2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.exe
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.xml
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_2.pdb
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.exe
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.pdb
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\bin\Debug\Pay Calculator_2.xml
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_4.vbprojResolveAssemblyReference.cache
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.frmMain.resources
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay_Calculator.Resources.resources
+C:\Users\phillip\Desktop\Pay Calculator\Pay Calculator_2\obj\x86\Debug\Pay Calculator_4.vbproj.GenerateResource.Cache

@@ -1,0 +1,54 @@
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\bin\Debug\Class_Registration.exe
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\bin\Debug\Class_Registration.pdb
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\bin\Debug\Class_Registration.xml
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\Class_Registration.Form1.resources
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\Class_Registration.Resources.resources
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\Class_Registration.exe
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\Class_Registration.xml
+C:\Users\irvinek\AppData\Local\Temporary Projects\Class_Registration\obj\x86\Debug\Class_Registration.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\Class_Registration.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\Class_Registration.xml
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\Class_Registration.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\bin\Debug\Class_Registration.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\bin\Debug\Class_Registration.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\bin\Debug\Class_Registration.xml
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\ResolveAssemblyReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\Class_Registration.Form1.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\Class_Registration.Resources.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\GenerateResource.read.1.tlog
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\Class_Registration\obj\x86\Debug\GenerateResource.write.1.tlog
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\Class_Registration.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\Class_Registration.xml
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\Class_Registration.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\bin\Debug\Class_Registration.exe
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\bin\Debug\Class_Registration.pdb
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\bin\Debug\Class_Registration.xml
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\ResolveAssemblyReference.cache
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\Class_Registration.Form1.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\Class_Registration.Resources.resources
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\GenerateResource.read.1.tlog
+\\bear-ad.cs.fiu.edu\homes\Desktop\Class_Registration\obj\x86\Debug\GenerateResource.write.1.tlog
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\Class_Registration.exe
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\Class_Registration.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\Class_Registration.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\bin\Debug\Class_Registration.exe
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\bin\Debug\Class_Registration.pdb
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\bin\Debug\Class_Registration.xml
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\ResolveAssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\Class_Registration.Form1.resources
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\Class_Registration.Resources.resources
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\GenerateResource.read.1.tlog
+\\buffalo.cs.fiu.edu\homes\Desktop\VB Projects\Class_Registration_3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.exe
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.xml
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.pdb
+C:\Users\phillip\Desktop\Class_Registration_3\bin\Debug\Class_Registration.exe
+C:\Users\phillip\Desktop\Class_Registration_3\bin\Debug\Class_Registration.pdb
+C:\Users\phillip\Desktop\Class_Registration_3\bin\Debug\Class_Registration.xml
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.vbprojResolveAssemblyReference.cache
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.Form1.resources
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.Resources.resources
+C:\Users\phillip\Desktop\Class_Registration_3\obj\x86\Debug\Class_Registration.vbproj.GenerateResource.Cache
